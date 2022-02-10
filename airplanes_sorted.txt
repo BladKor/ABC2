@@ -1,0 +1,9 @@
+Sorted container:
+Container contains 5 elements.
+0: Airplane: speed = 78, distance = 68, fly distance = 26, load capacity = 98. Optimal time = 0.333334.
+1: Airplane: speed = 50, distance = 22, fly distance = 15, load capacity = 43. Optimal time = 0.300000.
+2: Airplane: speed = 68, distance = 93, fly distance = 20, load capacity = 57. Optimal time = 0.294118.
+3: Airplane: speed = 90, distance = 32, fly distance = 24, load capacity = 30. Optimal time = 0.266667.
+4: Airplane: speed = 75, distance = 96, fly distance = 18, load capacity = 97. Optimal time = 0.240000.
+
+
